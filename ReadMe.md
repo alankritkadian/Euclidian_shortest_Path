@@ -46,7 +46,7 @@ To run the project, follow these steps:
 
 9. The program will then calculate and display the shortest path considering the specified polygonal obstacles.
 
-![Result Image](resources/Figure_1.png)
+![Result Image](resources/Figure_1.jpeg)
 
 
 
