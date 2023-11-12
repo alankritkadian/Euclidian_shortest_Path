@@ -46,8 +46,6 @@ To run the project, follow these steps:
 
 9. The program will then calculate and display the shortest path considering the specified polygonal obstacles.
 
-![Result Image](resources/Figure_1.jpeg)
-
-
+   ![Figure_1](https://github.com/alankritkadian/Euclidian_shortest_Path/assets/96477225/bf92f15e-dbc5-4d3e-957b-f4c6fe8ba598)
 
 Happy navigating through the world of polygonal obstacles! 🚀
